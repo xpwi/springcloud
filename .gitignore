@@ -1,0 +1,4 @@
+# Project exclude paths
+/springcloud-consumer-8088/target/
+/springcloud-eureka-8080/target/
+/springcloud-producer-8099/target/
